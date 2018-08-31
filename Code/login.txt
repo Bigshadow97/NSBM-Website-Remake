@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login Form Design</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="login.css">
+<body>
+<header>
+	<div class="main">
+		<div class="logo">
+			<a href="index.html"><img src="logo.png"></a>
+		</div>
+		<ul>
+			<li class="active"><a href="index.html">Home</a></li>
+			<li><a href="#">Programmes</a>
+			<ul>
+				<li><a href="http://nsbm.lk/nsbm/faculties">School of Computing</a></li>
+				<li><a href="http://nsbm.lk/nsbm/faculties">School of Business</a></li>
+			</ul>
+			</li>
+			<li><a href="#">Life at NSBM</a>
+			<ul>
+				<li><a href="http://www.nsbm.lk/nsbm/about">About NSBM</a></li>
+				<li><a href="http://www.nsbm.lk/nsbm/nsbm-faculty">Academic Staff</a></li>
+				<li><a href="http://www.skillsmin.gov.lk/">Ministry</a></li>
+			</ul>
+			</li>
+			<li><a href="news.htm">News & Media</a></li>
+			<li><a href="contact.html">Contact us</a></li>
+		</ul>
+	</div>
+	</header>
+    <div class="loginbox">
+    <img src="avatar.png" class="avatar">
+        <h1>Login Here</h1>
+        <form>
+            <p>Username</p>
+            <input type="text" name="" placeholder="Enter Username">
+            <p>Password</p>
+            <input type="password" name="" placeholder="Enter Password">
+            <input type="submit" name="" value="Login">
+            <a href="#">Lost your password?</a><br>
+            <a href="#">Don't have an account?</a>
+        </form>
+        
+    </div>
+
+</body>
+</head>
+</html>

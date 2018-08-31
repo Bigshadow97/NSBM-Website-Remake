@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>news</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="news.css" rel="stylesheet" type="text/css">
+<link href="lightbox.min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="lightbox-plus-jquery.min.js">
+</script>
+</head>
+
+<body>
+	<div class="main">
+		<div class="logo">
+			<a href="index.html"><img src="logo.png"></a>
+		</div>
+		<ul>
+			<li class="active"><a href="index.html">Home</a></li>
+			<li><a href="#">Programmes</a>
+			<ul>
+				<li><a href="http://nsbm.lk/nsbm/faculties">School of Computing</a></li>
+				<li><a href="http://nsbm.lk/nsbm/faculties">School of Business</a></li>
+			</ul>
+			</li>
+			<li><a href="#">Life at NSBM</a>
+			<ul>
+				<li><a href="http://www.nsbm.lk/nsbm/about">About NSBM</a></li>
+				<li><a href="http://www.nsbm.lk/nsbm/nsbm-faculty">Academic Staff</a></li>
+				<li><a href="http://www.skillsmin.gov.lk/">Ministry</a></li>
+			</ul>
+			</li>
+			<li><a href="news.htm">News & Media</a></li>
+			<li><a href="contact.html">Contact us</a></li>
+		</ul>
+	</div>
+<div class="gallery">
+<h1>NSBM Gallery</h1>
+	<a href = "pic 1.jpg" data-lightbox="mygallery" data-title="NSBM Graduates to get job Placements in Japan"><img src="small pic 1.jpg"></a>
+	<a href = "pic 2.jpg" data-lightbox="mygallery" data-title="NSBM Graduates to get job Placements in Japan"><img src="small pic 2.jpg"></a>
+	<a href = "pic 3.jpg" data-lightbox="mygallery" data-title="NSBM Vivadha 2018"><img src="small pic 3.jpg"></a>
+	<a href = "pic 4.jpg" data-lightbox="mygallery" data-title="NSBM Vivadha 2018"><img src="small pic 4.jpg"></a>
+	<a href = "pic 5.jpg" data-lightbox="mygallery" data-title="Global Village 2018 by AIESEC in NSBM"><img src="small pic 5.jpg"></a>
+	<a href = "pic 6.jpg" data-lightbox="mygallery" data-title="Maldives Representatives Visit NSBM"><img src="small pic 6.jpg"></a>
+	<a href = "pic 7.jpg" data-lightbox="mygallery" data-title="NSBM Graduates to get job Placements in Japan"><img src="small pic 7.jpg"></a>
+	<a href = "pic 8.jpg" data-lightbox="mygallery" data-title="NSBM Vivadha 2018"><img src="small pic 8.jpg"></a>
+	<a href = "pic 9.jpg" data-lightbox="mygallery" data-title="NSBM Graduates to get job Placements in Japan"><img src="small pic 9.jpg"></a>
+	<a href = "pic 10.jpg" data-lightbox="mygallery" data-title="Preparing for NBQSA 2018"><img src="small pic 10.jpg"></a>
+</div>
+</body>
+</html>

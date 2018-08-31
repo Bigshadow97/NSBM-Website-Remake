@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>NSBM Green University Town</title>
+<link rel="shortcut icon" href="favicon.ico">
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="index.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header>
+	<div class="main">
+		<div class="logo">
+			<a href="index.html"><img src="logo.png"></a>
+		</div>
+		<ul>
+			<li class="active"><a href="index.html">Home</a></li>
+			<li><a href="#">Programmes</a>
+			<ul>
+				<li><a href="http://nsbm.lk/nsbm/faculties">School of Computing</a></li>
+				<li><a href="http://nsbm.lk/nsbm/faculties">School of Business</a></li>
+			</ul>
+			</li>
+			<li><a href="#">Life at NSBM</a>
+			<ul>
+				<li><a href="http://www.nsbm.lk/nsbm/about">About NSBM</a></li>
+				<li><a href="http://www.nsbm.lk/nsbm/nsbm-faculty">Academic Staff</a></li>
+				<li><a href="http://www.skillsmin.gov.lk/">Ministry</a></li>
+			</ul>
+			</li>
+			<li><a href="news.htm">News & Media</a></li>
+			<li><a href="contact.html">Contact us</a></li>
+		</ul>
+	</div>
+	<div class="title">
+		<h1>NSBM Green University Town</h1>
+	</div>
+	<div class="button">
+		<a href="video.html" class="btn">watch video</a>
+		<a href="login.html" class="btn">login now</a>
+	</div>
+</header>
+</body>
+</html>

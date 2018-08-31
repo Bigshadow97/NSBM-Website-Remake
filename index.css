@@ -1,0 +1,42 @@
+*
+.title
+{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    align-items: center;
+}
+
+.button
+{
+	position: absolute;
+	top: 57%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.btn
+{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+}
+
+.btn:hover
+{
+	background-color: #0cd2f3;
+	color: #fff;
+}

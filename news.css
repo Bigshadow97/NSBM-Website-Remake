@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(1.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: monospace;
+}
+.gallery h1
+{
+	color: #fff;
+	text-align: center;
+	font-size: 50px;
+	margin: 10px 40px;
+	padding: 90px;
+}
+.gallery img
+{
+	height: 230px;
+	width: 265px;
+	padding: 5px;
+	margin-left: 20px;
+	filter: grayscale(100%);
+	transition: 1s;
+}
+.gallery img:hover
+{
+	filter: grayscale(0);
+	transform: scale(1.1);
+}
